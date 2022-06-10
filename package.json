@@ -1,6 +1,7 @@
 {
-  "name": "rete-react-render-plugin",
-  "version": "0.2.1",
+  "name": "@concord-consortium/rete-react-render-plugin",
+  "repository": "https://github.com/concord-consortium/react-render-plugin.git",
+  "version": "0.2.1-cc.1",
   "description": "",
   "main": "build/react-render-plugin.common.js",
   "module": "build/react-render-plugin.esm.js",
@@ -18,11 +19,11 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.0.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.14.1",
-    "eslint-plugin-react": "^7.12.4",
-    "rete-cli": "0.6.0-rc.5",
+    "@babel/preset-react": "^7.17.12",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.30.0",
+    "rete-cli": "0.6.0",
     "rollup-plugin-replace": "^2.2.0",
     "rollup-plugin-sass": "^1.2.2"
   }
