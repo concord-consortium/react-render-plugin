@@ -1,7 +1,7 @@
 {
   "name": "@concord-consortium/rete-react-render-plugin",
   "repository": "https://github.com/concord-consortium/react-render-plugin.git",
-  "version": "0.2.1-cc.1",
+  "version": "0.2.1-cc.2",
   "description": "",
   "main": "build/react-render-plugin.common.js",
   "module": "build/react-render-plugin.esm.js",
@@ -15,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": ">=16.8.6",
+    "react-dom": ">=16.8.6"
   },
   "devDependencies": {
     "@babel/preset-react": "^7.17.12",
